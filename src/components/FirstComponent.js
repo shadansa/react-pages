@@ -1,7 +1,7 @@
 import React from 'react';
 
 function FirstComponent() {
-  return <div>Hi Shadab - FINAL</div>;
+  return <div>First Component In React - Guthub Page</div>;
 }
 
 export default FirstComponent;
